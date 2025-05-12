@@ -9,6 +9,3 @@ PillTickr helps users stay on top of their medication schedule with:
 - **Offline-first & encrypted sync**—use it without internet, then securely back up to the cloud  
 - **Caregiver support**—share schedules with family or healthcare providers  
 - **Accessibility-focused design** with large text, color-blind-safe palettes, voice cues, and dark mode  
-
-Built with React Native + Expo, SQLite (offline) and Firebase/Supabase (optional sync).  
-Contributions welcome—see our [Roadmap](./ROADMAP.md) and [Contributing Guidelines](./CONTRIBUTING.md) to get started!
